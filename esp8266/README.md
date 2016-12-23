@@ -1,8 +1,8 @@
-@mainpage
-
 # WeeESP8266
 
 An ESP8266 library for Arduino providing an easy-to-use way to manipulate ESP8266.
+
+Some edits made by Filipsi
 
 # Source 
 
