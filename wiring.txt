@@ -1,0 +1,15 @@
+LCD
+RS:      D12
+Enable:  D11
+D4:      D5
+D5:      D4
+D6:      D3
+D7:      D2
+
+Piezo
+Trigger: D6
+
+ESP8266
+Bound:   9600
+RX:      D9
+TX:      D10
